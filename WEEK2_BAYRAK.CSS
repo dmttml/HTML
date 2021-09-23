@@ -1,0 +1,41 @@
+*{
+    text-align: center; font-family: sans-serif ;
+}
+body{
+    background-color:lavender; /*arka plan rengi*/
+    box-shadow: 10px 10px 10px lavender;
+    opacity: 1;
+}
+h1{
+    text-align: center; font-family: sans-serif;
+    color: black;
+}
+#bayrak{
+    background-color: red;
+    margin: auto;
+    height: 320px;
+    width: 320px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.serit{
+    position: absolute;
+    background-color: white;
+    display: block;
+}
+.yatay{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 200px;
+    width: 60px;
+    margin-left:130px;
+    margin-right:130 px;
+}
+.dikey{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    height: 60px;
+    width: 200px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
