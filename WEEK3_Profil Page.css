@@ -1,0 +1,96 @@
+h1{/*baslik*/
+    text-align: center;
+    size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rebeccapurple;
+    text-shadow:5px 5px 10px crimson
+}
+#profil{
+    display: block;
+    margin: auto;
+    border: 2px solid rebeccapurple;
+}
+div>article{
+    text-align: center;
+    border-style:double;
+    border-color:rebeccapurple;
+    border-width: 5px;
+    width: 800px;
+    margin-left:200px ;
+    margin-top: 10px;
+    background-color:thistle   
+}
+.kirmizi{
+    width: 700px;
+    margin-left: 250px;
+}
+h3{/*alt basliklar*/
+text-decoration:underline;
+font-style: italic;
+
+}
+#hakkimda{
+    text-align: center;
+    border-style:double;
+    border-color: rebeccapurple;
+    border-width: 5px;
+    width: 900px;
+    margin-left:150px ;
+    margin-top: 10px;
+    background-color: thistle;
+}
+#okul{
+    text-align: center;
+    border-style:double;
+    border-color: rebeccapurple;
+    border-width: 5px;
+    width: 900px;
+    margin-left: 150px;
+    margin-top: 10px;
+    background-color: thistle;
+}
+#tekno{
+    text-align: center;
+    border-style:double;
+    border-color: rebeccapurple;
+    border-width: 5px;
+    width: 900px;
+    margin-left: 150px;
+    margin-top: 10px;
+    background-color: thistle;
+}
+#hobby{
+    text-align: center;
+    border-style:double;
+    border-color: rebeccapurple;
+    border-width: 5px;
+    width: 900px;
+    margin-left: 150px;
+    margin-top: 10px;
+    background-color: thistle;
+}
+.etkinlik{
+    float: left;
+    width: 140px;
+    margin-top: -35px;
+    margin-left: 10px;
+}
+.boya{
+    float: left;
+    width: 140px;
+    margin-top:10px ;
+    margin-left: 10px;
+}
+div>section>p, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background:mistyrose;
+    opacity: 1;
+    
+}
+.img2{
+   width: 500px;
+   height: 150px;
+   margin-top: 20px;
+}
