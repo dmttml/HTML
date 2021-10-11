@@ -1,0 +1,142 @@
+
+
+main{
+    display:flex;
+    border-style: solid;
+    border-color: #FADE8B;
+    background-color: #dfdaaa;
+   
+    
+}
+#kutucuk-bir{
+    display: flex;
+    background-color: #62306D;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;
+}
+#sag{
+    display: flex;
+    color:#F7EC7D;
+    background-color:#F7EC7D ;
+    border-style: solid;
+    width:100px ;
+    height: 100px;
+    margin-top: 133px;
+    margin-left: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    flex-direction: row;
+}
+#orta{
+    color:#F7EC7D;
+    background-color:#F7EC7D ;
+    border-style: solid;
+    width:100px ;
+    height: 100px;
+    margin-top:30px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+#sol{
+    color:#F7EC7D;
+    background-color:#F7EC7D ;
+    border-style: solid;
+    width:100px ;
+    height: 100px;
+    margin-top: 133px;
+    margin-right: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+#kutucuk-iki{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #E3516E;
+    width: 400px;
+    height: 300px;
+}
+#yesil{
+    width: 100px;
+    height: 100px;
+    border-top-left-radius: 100px;
+    border-style: solid;
+    color: #51B5A9;
+    background-color:#51B5A9 ;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+#sari{
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    color: #FADE8B;
+    background-color:#FADE8B ;
+   border-top-right-radius: 100px;
+   margin-top: 60px;
+   margin-right: 60px;
+}
+#krem{
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    color: #F7F3D7;
+    background-color: #F7F3D7;
+    border-bottom-left-radius: 100px;
+    margin-top: 164px;
+    margin-left:-268px;
+}
+#kutucuk-uc{
+    display: flex;
+    margin: 20px;
+    margin-bottom: 20px;
+    background-color: #191210;
+    width: 400px;
+    height: 300px;
+}
+#dis-daire{
+    border-style: solid;
+    background-color: #ECA03D;
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+#orta-daire{
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #191210;
+    margin-top: 17px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+}
+#ic-daire{
+    border-style: solid;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #84271C;
+    justify-self:center;
+    margin-top: -100px;
+    margin-left: 50px;
+}
+#asagi{
+    border-style: solid;
+    background-color: #ECA03D;
+    width: 40px;
+    height: 40px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: px;
+
+}
