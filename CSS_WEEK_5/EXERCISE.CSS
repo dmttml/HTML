@@ -1,14 +1,12 @@
 
 
-main{
+main{/*ana border*/
     display:flex;
     border-style: solid;
     border-color: #FADE8B;
     background-color: #dfdaaa;
-   
-    
 }
-#kutucuk-bir{
+#kutucuk-bir{/*ilk sekil CSS ozellikleri*/
     display: flex;
     background-color: #62306D;
     flex-direction: row;
@@ -52,7 +50,7 @@ main{
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
-#kutucuk-iki{
+#kutucuk-iki{/*orta sekil CSS ozellikleri*/
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -91,7 +89,7 @@ main{
     margin-top: 164px;
     margin-left:-268px;
 }
-#kutucuk-uc{
+#kutucuk-uc{/*ucuncu sekil CSS ozellikleri*/
     display: flex;
     margin: 20px;
     margin-bottom: 20px;
@@ -107,7 +105,6 @@ main{
     border-radius: 70px;
     margin-top: 100px;
     margin-left: 100px;
-
 }
 #orta-daire{
     border-style: solid;
@@ -119,9 +116,9 @@ main{
     margin-left: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
-
 }
 #ic-daire{
+    display: flex;
     border-style: solid;
     width: 40px;
     height: 40px;
@@ -134,9 +131,19 @@ main{
 #asagi{
     border-style: solid;
     background-color: #ECA03D;
-    width: 40px;
-    height: 40px;
-    border-top-left-radius: 40px;
-    border-top-right-radius: px;
-
+    width: 60px;
+    height: 60px;
+    border-bottom: 60px;
+    border-radius: 30px;
+    margin-top: 140px;
+    margin-left: -4px;
+    margin-right: 35px;
+}
+#icdaire{
+    border-style: solid;
+    background-color: #191210;
+    width: 45px;
+    height: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
 }
