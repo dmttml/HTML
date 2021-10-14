@@ -1,0 +1,107 @@
+main{
+    display:flex;
+    flex-direction:;
+    justify-content: space-between;
+    border-style: solid;
+    border-color:white ;
+    background-color: rgba(241, 236, 236, 0.842);
+}
+#icerik{
+    display: flex;
+    width:60vh;
+    margin-top: 150px;
+    margin-left: 40px;
+    flex-direction: column ;
+}
+img{
+    width: 30vw;
+    height: 15vh;
+}
+#girdiler{
+    border: solid;
+    background-color: white;
+    width: 62vh;
+    height: 30vw;
+    margin-top:100px;
+    margin-right: 200px;
+    margin-bottom: ;
+    padding: 25px;
+    color: whitesmoke;
+    box-shadow: 3px 3px 3px whitesmoke;
+}
+#tanitim{
+    font-size: 1rem;
+    margin-left: 40px;
+    margin-top: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    width: 25vw;
+    height: 5vh;
+    margin:15px 15px;
+    color: rgb(173, 169, 169);
+}
+#yenihesap{
+    width: 20vw;
+    height: 5vh;
+    margin-left: 55px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    background-color: rgb(10, 201, 26);
+    color:rgb(10, 201, 26) ;
+}
+#basvuru{
+    width: 25vw;
+    height: 5vh;
+    margin-left: 20px;
+    background-color: rgb(49, 93, 212);
+}
+a{
+    margin-left: 110px;
+    margin-bottom: 15px;
+    border-bottom:groove rgba(196, 188, 188, 0.966);
+    padding: 20px;
+    color: rgb(49, 93, 212);
+}
+.altbaslik{
+    text-align: center;
+    color: lavender;
+    margin-top: 5px;
+}
+.anabolum{
+    display: flex;
+    flex-direction: column;
+}
+.icerik{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:30px;
+}
+.girdiler{
+    margin-left: 10px;
+}#altnot{
+    margin-right:10px;
+    font-size: 15px;
+}
+#diller{
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    font-style: normal;
+    opacity: 0.6;
+    border-bottom:groove;
+}
+#liste{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 12px;
+    opacity: 0.6;
+    font-style:initial;
+}
+#icon{
+    font-size: 12px;
+    font-style: normal;
+    opacity: 0.6;
+    margin-left: 40px;
+}
